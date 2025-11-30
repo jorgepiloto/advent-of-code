@@ -1,0 +1,7 @@
+# Build system and package manager
+conan==2.21.0
+meson==1.9.1
+ninja==1.13.0
+
+# Testing
+gcovr==8.4

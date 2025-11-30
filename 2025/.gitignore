@@ -1,0 +1,7 @@
+# Virtual environment
+venv/
+.venv/
+
+# Cache and build files
+.cache/
+build/
