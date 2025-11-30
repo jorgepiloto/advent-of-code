@@ -1,6 +1,6 @@
 # Advent of Code
 
-## About
+## About
 
 This repository contains my solutions to the challenges proposed by the Advent
 of Code.
